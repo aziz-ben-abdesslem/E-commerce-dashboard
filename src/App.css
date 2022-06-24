@@ -1,0 +1,81 @@
+.invalid-feedback {
+  color: #ffff;
+}
+.c-class {
+  float: right;
+  margin-top: -5px;
+  float: right !important;
+}
+.foo {
+  width: 100%;
+  float: left;
+  padding: 10px;
+  color: #ffff;
+}
+.title-login {
+  color: #c2975b;
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 25px;
+}
+.contactpan {
+  float: left;
+  width: 100%;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+  border: 0px;
+  border-top: 2px solid #e5e5e5;
+  margin-bottom: 20px;
+  position: relative;
+  box-shadow: 0px 1px 1px 0px rgb(0 0 0 / 20%);
+  margin-left: 100%;
+  margin-top: 20%;
+}
+
+.register {
+  float: left;
+  height: 155vh;
+  width: 100%;
+  min-height: 100%;
+  background: url("../public/img/istockphoto-937088474-612x612.jpg") center
+    no-repeat #1b1e24;
+  background-size: cover;
+}
+.bouton{
+  border-color: #95b75d;
+  background-color: #95b75d;
+}
+
+
+
+
+/*.sexe{
+    color: #ffff;
+    margin-left: 11px;
+    font-size: 14px;
+}
+.sexeplace{
+    margin-left: 20px;
+    text-align: center;
+    color: #ffff;
+    
+
+}
+  */
+
+/*<div className="form-group">
+                                    <div className="col-md-12">
+                                        <div className='sexe'> Sexe </div>
+                                       <div className='sexeplace'> 
+                                       
+                                        <input type="radio" id="homme" name="sexe" value={data.sexe} onChange={OnChangehandle}/> 
+                                        &nbsp;&nbsp;<label for="homme">Homme</label> &nbsp;&nbsp;
+                                            
+                                            <input type="radio" id="femme" name="sexe" value={data.sexe} onChange={OnChangehandle} />
+                                            &nbsp;&nbsp; <label for="femme">Femme</label> 
+                                                </div>                                                
+                                                    </div>
+
+                                                </div>
+                                                */
